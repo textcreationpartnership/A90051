@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters from Lieutenant-General David Lesley, to the Right Honourable the Commissioners of Scotland residing at London, together with a voluntary certificate of divers of the well-affected gentry in Notingham-shire; with their names subscribed: concerning the carriage of the Scotish army in those parts. Published by authority.</title>
+            <author>Newark, David Leslie, Baron, d. 1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90051</idno>
+            <idno type="STC">Wing N843</idno>
+            <idno type="STC">Thomason E327_9</idno>
+            <idno type="STC">ESTC R200655</idno>
+            <idno type="EEBO-CITATION">99861337</idno>
+            <idno type="PROQUEST">99861337</idno>
+            <idno type="VID">159586</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159586)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E327[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters from Lieutenant-General David Lesley, to the Right Honourable the Commissioners of Scotland residing at London, together with a voluntary certificate of divers of the well-affected gentry in Notingham-shire; with their names subscribed: concerning the carriage of the Scotish army in those parts. Published by authority.</title>
+                  <author>Newark, David Leslie, Baron, d. 1682.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock, at the Kings-head in Paul's Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March: 7th 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Nottinghamshire (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159586:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>TWO LETTERS From Lieutenant-General <hi>DAVID LESLEY,</hi> TO The Right Honourable the Com<g ref="char:EOLhyphen"/>miſſioners of <hi>Scotland</hi> reſiding at <hi>London,</hi>
+            </p>
+            <p>Together with A VOLUNTARY CERTIFICATE of divers of the well-affected Gentry in <hi>Notingham</hi>-Shire; with their Names ſubſcribed:</p>
+            <p>Concerning the Carriage of the <hi>Scotiſh</hi> Army in thoſe parts.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Bostock,</hi> at the Kings-head in <hi>Paul</hi>'s Church-yard. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159586:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:159586:2"/>
+            <!-- PDF PAGE 2 -->
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>IT doth exceedingly grieve me to hear there are ſo many falſe reports ſpread of the carriage of this Army; yet it is ſome comfort unto me that the Gentlemen of <hi>Nottingham</hi>-ſhire, where the Army doth reſide, not being deſired, have been plea<g ref="char:EOLhyphen"/>ſed in a Letter to me, to give a better Character of our pro<g ref="char:EOLhyphen"/>ceedings. And although I know my teſtimony would weigh ſufficiently with your Lordſhips not to give ear to thoſe Ca<g ref="char:EOLhyphen"/>lumnies, yet becauſe this may prevail more with others, I have ſent your Lordſhips the Original, to make uſe thereof as you ſhall think fit. I have likewiſe thought fit to acquaint your Lordſhips that I have received Diſcharges from the ſeveral Villages where the Army quarters; and you may reſt aſſured nothing ſhall be wanting which lieth in my power for eaſing the Countrey. I could wiſh that a Bridge were made over the River timouſly, that we might joyn with the Forces on the other ſide, for blocking up the Town on all parts<g ref="char:punc">▪</g> The Bearer will inform you that many things are wanting for car<g ref="char:EOLhyphen"/>rying on this Service, which gives no ſmall trouble to</p>
+            <closer>
+               <dateline>
+                  <hi>Keiham,</hi> 
+                  <date>
+                     <hi>Febr.</hi> 26. 1646.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble ſervant, DAVID LESLEY.</signed>
+            </closer>
+            <pb facs="tcp:159586:3"/>
+            <!-- PDF PAGE 3 -->
+            <pb n="3" facs="tcp:159586:3"/>
+            <!-- PDF PAGE 3 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:159586:4"/>
+            <!-- PDF PAGE 4 -->
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough our burdens have (of neceſſity) been very great, by the acceſſe of your Invited Ar<g ref="char:EOLhyphen"/>my, yet when we conſider how (by the wiſe and happie concurrence of your Honour, your Commanders and Officers, with our Committees of Parliament now reſident at <hi>Southwel</hi>) the ſame burdens have been equally and regularly laid upon us in this ſmall barren and exhauſted North part of our County of <hi>Notingham,</hi> we cannot but cheerfully (in the midſt of our preſſures) acknowledge our great Thankfulneſſe for your favour, and readineſſe (as much as in you lies) to eaſe us, and ſo to order and regulate your Army, as to do your beſt endeavours to preſerve us.</p>
+            <p>We are ſorry that our poverty and weakneſſe cannot an<g ref="char:EOLhyphen"/>ſwer your merits and Nobleneſſe: But we hope your Honour, (with the reſt) will ſtill be pleaſed to accept of our willing<g ref="char:EOLhyphen"/>neſſe, and we ſhall remain in this Confidence, that the expreſ<g ref="char:EOLhyphen"/>ſion of this our readineſſe will (in ſuch noble Spirits) not onely continue, but alſo encreaſe your pity and goodneſſe to<g ref="char:EOLhyphen"/>wards us and ours: And we ſhall ever pray for the encreaſe of your Honour and Happineſſe; in the manifeſtation where<g ref="char:EOLhyphen"/>of, we have now at <hi>Southwel,</hi> in the behalf of our ſelves and many others, ſubſcribed our names this third day of <hi>February,</hi> 1645.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>F. Molineaux</hi>
+                     </item>
+                     <item>
+                        <hi>Sa: Bolles</hi>
+                     </item>
+                     <item>
+                        <hi>Myles Newton</hi>
+                     </item>
+                     <item>
+                        <hi>George Maiſon</hi>
+                     </item>
+                     <item>
+                        <hi>John Walker.</hi>
+                     </item>
+                     <item>
+                        <hi>Lawrence Newton.</hi>
+                     </item>
+                     <pb n="5" facs="tcp:159586:4"/>
+                     <!-- PDF PAGE 4 -->
+                     <item>
+                        <hi>Will. Clarikson</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Ludely</hi>
+                     </item>
+                     <item>
+                        <hi>William Wild</hi>
+                     </item>
+                     <item>
+                        <hi>Original Biron</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Southworth</hi>
+                     </item>
+                     <item>
+                        <hi>Obadiah Martyn</hi>
+                     </item>
+                     <item>
+                        <hi>George Ruine</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Goſlin</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Fox</hi>
+                     </item>
+                     <item>
+                        <hi>Rowl. Sands</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Nevill</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Piſcough</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Glover</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Edlington</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Hinde</hi>
+                     </item>
+                     <item>
+                        <hi>George Nightingall</hi>
+                     </item>
+                     <item>
+                        <hi>John Wastall</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Munke</hi>
+                     </item>
+                     <item>
+                        <hi>Jer. Hatſhide</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Blewet</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Newton.</hi>
+                     </item>
+                     <item>
+                        <hi>Franc. Thornhill.</hi>
+                     </item>
+                     <item>
+                        <hi>John Croſſe</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Noddell</hi>
+                     </item>
+                     <item>
+                        <hi>William Cayworth</hi>
+                     </item>
+                     <item>
+                        <hi>Cor. Woodhouſe</hi>
+                     </item>
+                     <item>
+                        <hi>William Samſon</hi>
+                     </item>
+                     <item>
+                        <hi>Stephen Cor</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Royston</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Philips</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Odingſell</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Moſeley</hi>
+                     </item>
+                     <item>
+                        <hi>Matth. Palmer.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Brough</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Eyre</hi>
+                     </item>
+                     <item>
+                        <hi>William Streyley</hi>
+                     </item>
+                     <item>
+                        <hi>Park Creſſey</hi>
+                     </item>
+                     <item>
+                        <hi>John Wood</hi>
+                     </item>
+                     <item>
+                        <hi>Acton Burnell</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Samlo</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Sherbrooke</hi>
+                     </item>
+                  </list>
+               </signed>
+               <signed>
+                  <hi>For the Right Honourable, Lieutenant-General</hi> David Leſley.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:159586:5"/>
+            <!-- PDF PAGE 5 -->
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>I Acknowledge with all thankfulneſſe your fredome in ac<g ref="char:EOLhyphen"/>quainting us with the baſe calumnies and miſinformations invented, and ſpread abroad againſt our Army, which I dare ſay doe proceed for the moſt part, from the Activeneſſe, In<g ref="char:EOLhyphen"/>duſtry, and malice of our enemies; of purpoſe to render us hatefull to our friends, and to divide (which God avert) the Kingdomes if poſſible: I have been ever-moſt willing to re<g ref="char:EOLhyphen"/>dreſſe the leaſt injury and wrong done by any under my Com<g ref="char:EOLhyphen"/>mand; and at this preſent have the moſt of them, who are complayned on by the Inhabitants of <hi>Tickill</hi> in priſon, upon whom I ſhall doe Iuſtice moſt ſeverely, ſo ſoone as any of the crimes they are charged with ſhall be proved; by which your Lordſhips may ſee how unjuſtly we are dealt with. In the beſt regulated Armies that ever were, there have been diſorders and miſcarriages: neither is it to be expected but there have been, and are ſome in ours, conſidering how much we have been neg<g ref="char:EOLhyphen"/>lected in our maintenance, that ſometimes for the ſpace of ſe<g ref="char:EOLhyphen"/>ven or eight moneths together, wee have received no pay, and as it is no ſmal matter of grief to me, when any miſcarriage fals out; So no ſooner is any diſorder made known to me, but I put it to tryall and examination, which is cleare in that of <hi>Tickill,</hi> ſo much aggravated; for I no ſooner heard of the abu<g ref="char:EOLhyphen"/>ſes ſaid to bee done there, but I cauſed impriſon the perſons complayned on. I intreated the Commiſſioners from the Par<g ref="char:EOLhyphen"/>liament to ſend to <hi>Tickill</hi> ſome from them, where I appointed honeſt and able men from our Army to meet with them, to heare the complaints, and report to me, that I might accor<g ref="char:EOLhyphen"/>ly puniſh, or cleare the perſons complayned on: Theſe ap<g ref="char:EOLhyphen"/>pointed by me went to the place, but there were none there to meet with them, and the reaſon pretended was, becauſe the
+<pb n="7" facs="tcp:159586:5"/>
+               <!-- PDF PAGE 5 -->Inhabitants durſt not complaine, as long as there were in the place a Regiment to over-awe them (which I dare ſay is a ca<g ref="char:EOLhyphen"/>lumny.) Wherefore I have removed that Regiment, and have againe renewed my former intreaty to the Commiſſioners; That they will be pleaſed to ſend ſome from them to <hi>Tickill,</hi> where I ſhall meet them with the perſons complayned on, that if they be found guilty, they may be puniſhed according to the nature of their faults; and if innocent they may be cleared, As to that of Major <hi>Blaire,</hi> it is a wild Calumny; for ſince his comming to <hi>Nottinghamſhire,</hi> hee had no order from me to returne to <hi>Yorkeſhire;</hi> neither did he returne, or quarter there ſince; but is yet lying with his Troops in <hi>Derby-ſhire.</hi> And for our Army, notwithſtanding of all the hainous crimes wee are charged with; I dare ſay, never Army did live more peace<g ref="char:EOLhyphen"/>ably, and ſoberly, then we have done. And that no Army in the Kingdome is more willing to accept of a competency, for ſubſiſtance, and to offer themſelves when commanded, with all cheerfulneſſe for the advancement of the publick ſervice; I am confident that God, who knowes the ſincerity of our hearts to this Kingdome, and the cauſe we fight for, will in his owne time make the truth of this appear. I have ſent you here en<g ref="char:EOLhyphen"/>cloſed a Copie of a Declaration, which I have cauſed publiſh this laſt Sabbath in all the Pariſh Churches where our Forces lie, A Copie whereof I have alſo ſent to the Commiſſioners of the Honourable Houſes of Parliament, and to the Committee of <hi>Yorkeſhire,</hi> which I intreat you to repreſent with this Let<g ref="char:EOLhyphen"/>ter, to the Committee of both Kingdomes, and to the Parlia<g ref="char:EOLhyphen"/>ment, as alſo to give aſſurance to our friends, that whatſoever reports may be ſpread of our Army, that they notwithſtand<g ref="char:EOLhyphen"/>ing may reſt confident, that there ſhall be no diſorder, nor miſ<g ref="char:EOLhyphen"/>carriage in it, which ſhall not be ſeverely puniſhed: And that I expect ſo much Charity and Juſtice from them, that they wil beleeve nothing to our prejudice, upon bare and naked infor<g ref="char:EOLhyphen"/>mations, and reports: And that they will ſuſpend their judge<g ref="char:EOLhyphen"/>ments till due tryall and examination be made: And then I doubt not, but that wee ſhall receive a good teſtimonie from our friends, and make our Enemies and Accuſers aſhamed of
+<pb n="8" facs="tcp:159586:6"/>
+               <!-- PDF PAGE 6 -->their lyes and calumnies wherewith they have charged us, who have and ever ſhall be zealous in abhorring and puniſh<g ref="char:EOLhyphen"/>ing ſuch villanies, and ſhall ever remaine:</p>
+            <closer>
+               <dateline>
+                  <hi>Kelhame</hi> 
+                  <date>the 22. of <hi>February,</hi> 1646.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt faithfull Servant, <hi>DAVID LESLEY</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Whereas both Houſes of Parliament have lately given Or<g ref="char:EOLhyphen"/>der for providing 15000. <abbr>l.</abbr> 
+                  <hi>per menſem,</hi> for the maintenance of the Forces before <hi>Newarke,</hi> under my command: and it is expected the Honourable Commiſſioners of Parliament will take ſpeciall care for due performance thereof, whereby the Army may in ſome meaſure ſubſiſt, and be inabled to proſecute the ſervice, wher in they are now ingaged: And whereby divers complaints have been made elſe where againſt ſome in the Army, without making any addreſſe to us here upon the place, who have ever, and ſhall ſtill be moſt ready and willing to re<g ref="char:EOLhyphen"/>dreſſe all juſt grievances; we have thought fit to make known to all the Inhabitants in theſe parts, that wee have iſſued our Edict and Proclamation, commanding all Officers and Soul<g ref="char:EOLhyphen"/>diers, not to preſume upon paine of death, to offer the leaſt wrong or violence to any whatſoever in their perſons or goods: And wee doe hereby invite all ſuch as have, or ſhall re<g ref="char:EOLhyphen"/>ceive any wrong or injury, from any within this Army, to to make their appearance freely to our Quarters, to exhibit their complaints againſt any Officer or Souldier whatſoever: And wee doe faithfully promiſe that ſevere puniſhment ſhall be in<g ref="char:EOLhyphen"/>flicted upon all ſuch as ſhall be found guilty upon triall; as on the other part wee doe expect that none will be ſo forget<g ref="char:EOLhyphen"/>full of their duty, or injurious to this Army, as to make com<g ref="char:EOLhyphen"/>plaints elſe-where, when Iuſtice hath not been denyed them upon the place.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
